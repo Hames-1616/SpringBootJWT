@@ -8,6 +8,7 @@ public class spring {
     private String address;
 
     public spring(String name, String address) {
+        
         this.name = name;
         this.address = address;
     }
